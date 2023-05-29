@@ -13,5 +13,5 @@ export {
     Messages,
     Navbar,
     Search,
-    Siderbar
+    Siderbar     
 }
